@@ -30,6 +30,7 @@
 - you will get a link like https://i.imgur.com/random-letters.png < example link
 - you want to past that url into the `background: url('https://i.imgur.com/random-letters.png');` < like so
 
+if you wanna see an example of it all together [click here](https://top.gg/bot/810614472607137803) for my bots page
 
 [contributors-shield]: https://img.shields.io/github/contributors/Oni-Chan-inc/Topgg-custom-page.svg?style=for-the-badge
 [contributors-url]: https://github.com/Oni-Chan-inc/Topgg-custom-page/graphs/contributors
