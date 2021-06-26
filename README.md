@@ -29,8 +29,9 @@
 - once you have uploaded the image right click it and press "Copy image address"
 - you will get a link like https://i.imgur.com/random-letters.png < example link
 - you want to past that url into the `background: url('https://i.imgur.com/random-letters.png');` < like so
-[hr][/hr]
-if you wanna see an example of it all together [click here](https://top.gg/bot/810614472607137803) for my bots page
+
+### My Bot's page as example [click here](https://top.gg/bot/810614472607137803)
+
 
 [contributors-shield]: https://img.shields.io/github/contributors/Oni-Chan-inc/Topgg-custom-page.svg?style=for-the-badge
 [contributors-url]: https://github.com/Oni-Chan-inc/Topgg-custom-page/graphs/contributors
